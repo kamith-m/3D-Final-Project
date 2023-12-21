@@ -18,6 +18,8 @@ Third Party Assets:
   Interactive Physical Door Pack - Art Notes
   LowPoly Trees and Rocks - greyRoad Studio
   Cartoon Ground and Floor Textures - Kamara Creations
+  LowPoly Water - Ebru Dogan
+  Low-Poly Simple Nature Pack - JustCreate
 
 ## Getting Started
 
