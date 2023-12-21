@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Portal
+  - Lever
+  - Pickaxe
+  - Pliers
+  - Bellows
+  - OreSource
+  - Ores
   layers:
   - Default
   - TransparentFX
@@ -12,7 +18,7 @@ TagManager:
   - TeleportationTarget
   - Water
   - UI
-  - 
+  - Lever
   - 
   - 
   - 
