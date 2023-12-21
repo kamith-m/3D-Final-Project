@@ -11,6 +11,17 @@ TagManager:
   - Bellows
   - OreSource
   - Ores
+  - Hammer
+  - Anvil
+  - Ore_Fire
+  - Light
+  - Bars
+  - Mold
+  - FinalMold
+  - Grinder
+  - Weapon
+  - PreCooled
+  - Forge
   layers:
   - Default
   - TransparentFX
